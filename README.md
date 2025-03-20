@@ -1,5 +1,4 @@
 # Zomato-Demand-forecasting
-# Zomato Demand Forecasting
 
 This repository contains a project focused on forecasting the demand for Zomato orders using historical order count data and restaurant performance metrics. The goal is to help Zomato optimize its operations by predicting future order volumes and identifying key areas for quality improvement among restaurants.
 
